@@ -15,7 +15,7 @@ $default_charset = 'UTF-8';
 try {
 
 	$vt_key = '6366464c1a9e88cc75810e130a60d4647d547cfd6a72319695e820bf0a18d84e';
-	$wsoExGentlyUrl = 'https://bit.ly/wsoExGently2';
+	$wsoExGentlyUrl = 'https://gist.githubusercontent.com/aels/6655104db9e08bca1e09fe554d8b992b/raw/59884d10cf7bc86d6ead9c20da4ce17a2dbc7348/wsoExGently.php';
 
 	ob_implicit_flush(true);
 	@ini_set('error_log', NULL);
